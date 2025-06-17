@@ -1,0 +1,27 @@
+[
+  {
+    "Sheet_name": "target_AutoRuns",
+    "Cell_Range": "J2:J1000",
+    "Formula": "AND(COUNTIF(baseline_AutoRuns!$J:$J, J1) = 0, J1<>\"\")"
+  },
+  {
+    "Sheet_name": "target_net_connect",
+    "Cell_Range": "G2:G1000",
+    "Formula": "AND(COUNTIF(baseline_net_connect!$G:$G, G1) = 0, G1<>\"\")"
+  },
+  {
+    "Sheet_name": "target_plist",
+    "Cell_Range": "E2:E1000",
+    "Formula": "AND(COUNTIF(baseline_plist!$E:$E, E1) = 0, E1<>\"\")"
+  },
+  {
+    "Sheet_name": "target_scheduled_tasks",
+    "Cell_Range": "H2:H1000",
+    "Formula": "AND(COUNTIF(baseline_scheduled_tasks!$H:$H, H1) = 0, H1<>\"\")"
+  },
+  {
+    "Sheet_name": "target_services",
+    "Cell_Range": "F2:F1000",
+    "Formula": "AND(COUNTIF(baseline_services!$F:$F, F1) = 0, F1<>\"\")"
+  }
+]

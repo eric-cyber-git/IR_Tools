@@ -25,7 +25,7 @@ WinIR_Case_folder=C:\WinIR\Cases
 WinIR_Config_Folder=C:\WinIR\Configs
 
 
-Workflow:
+## Workflow
 
 Run ArtifactCollector.ps1 on a clean system and move results to the baseline folder.
 
@@ -35,7 +35,8 @@ Run CSV_Merge.py on your analysis machine.
 
 Open the generated Excel file, enable filtering, and use "Filter by Color" to isolate anomalies.
 
-Customization
+## Customization
+
 To add support for new artifacts:
 
 Duplicate an existing block in CF_config.json
@@ -44,7 +45,7 @@ Update the sheet name (target_<artifact_name>)
 
 Adjust the column letter in the formula to match your field of interest
 
-Why Use This?
+## Why Use This?
 
 - No expensive tooling
 - Fast and portable

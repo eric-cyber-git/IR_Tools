@@ -1,6 +1,6 @@
 # Windows Incident Response Triage Toolkit
 
-See the entire write up with screenshots here: 
+See the entire write up with screenshots here: https://eric-cyber.com/battelefield-forensics/f/differential-triage-a-lightweight-framework-for-windows-ir
 
 This project provides a lightweight, modular workflow for performing differential analysis between a known-good Windows system and a potentially compromised one.
 

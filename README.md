@@ -19,10 +19,10 @@ Built using Python and PowerShell, it enables rapid, low-cost triage in environm
 
 Set the following environment variables (or hardcode paths if preferred):
 
-WinIR_Baseline_Backup=C:\WinIR\Baseline
-WinIR_Case_Data=C:\WinIR\Case_Data\Target
-WinIR_Case_folder=C:\WinIR\Cases
-WinIR_Config_Folder=C:\WinIR\Configs
+- WinIR_Baseline_Backup=C:\WinIR\Baseline
+- WinIR_Case_Data=C:\WinIR\Case_Data\Target
+- WinIR_Case_folder=C:\WinIR\Cases
+- WinIR_Config_Folder=C:\WinIR\Configs
 
 
 ## Workflow

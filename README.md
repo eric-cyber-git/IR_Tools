@@ -29,7 +29,7 @@ Set the following environment variables (or hardcode paths if preferred):
 
 1. Run ArtifactCollector.ps1 on a clean system and move results to the baseline folder.
 
-2. Run it again on the target system and move those results to the target folder.
+2. Run it again on the target system and move those results to the target folder on your analysis machine.
 
 3. Run CSV_Merge.py on your analysis machine.
 

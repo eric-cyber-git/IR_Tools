@@ -39,11 +39,9 @@ Set the following environment variables (or hardcode paths if preferred):
 
 To add support for new artifacts:
 
-Duplicate an existing block in CF_config.json
-
-Update the sheet name (target_<artifact_name>)
-
-Adjust the column letter in the formula to match your field of interest
+1. Duplicate an existing block in CF_config.json
+2. Update the sheet name (target_<artifact_name>)
+3. Adjust the column letter in the formula to match your field of interest
 
 ## Why Use This?
 

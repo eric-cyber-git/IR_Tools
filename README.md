@@ -48,5 +48,4 @@ To add support for new artifacts:
 - No expensive tooling
 - Fast and portable
 - Reduces review fatigue by up to 90%
-
-Ideal for triage, validation, and training in constrained environments
+- Ideal for triage, validation, and training in constrained environments
